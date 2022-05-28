@@ -2,6 +2,10 @@
 
 MoneyApp NodeJs Assignment (Task 1)
 
+### Technologies used
+
+NodeJs, ExpressJs, MongoDB
+
 ## Requirements
 
 For development, you will only need Node.js and a node global package, npm, installed in your environement.
